@@ -1,0 +1,12 @@
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\bin\Debug\net6.0\BugDomain.deps.json
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\bin\Debug\net6.0\BugDomain.dll
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\bin\Debug\net6.0\BugDomain.pdb
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.csproj.AssemblyReference.cache
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.AssemblyInfoInputs.cache
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.AssemblyInfo.cs
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.csproj.CoreCompileInputs.cache
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.dll
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\refint\BugDomain.dll
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\BugDomain.pdb
+C:\facultate\Semestrul 4\ISS\Urmarire-Buguri\Project\Domain\obj\Debug\net6.0\ref\BugDomain.dll

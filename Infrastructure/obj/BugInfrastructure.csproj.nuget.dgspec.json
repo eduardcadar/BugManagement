@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Infrastructure\\BugInfrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\BugApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\BugApplication.csproj",
+        "projectName": "BugApplication",
+        "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\BugApplication.csproj",
+        "packagesPath": "C:\\Users\\edyed\\.nuget\\packages\\",
+        "outputPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj": {
+                "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj",
+        "projectName": "BugDomain",
+        "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj",
+        "packagesPath": "C:\\Users\\edyed\\.nuget\\packages\\",
+        "outputPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Infrastructure\\BugInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Infrastructure\\BugInfrastructure.csproj",
+        "projectName": "BugInfrastructure",
+        "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Infrastructure\\BugInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\edyed\\.nuget\\packages\\",
+        "outputPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\BugApplication.csproj": {
+                "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Application\\BugApplication.csproj"
+              },
+              "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj": {
+                "projectPath": "C:\\facultate\\Semestrul 4\\ISS\\Urmarire-Buguri\\Project\\Domain\\BugDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BugApplication/1.0.0": {
+        "dependencies": {
+          "BugDomain": "1.0.0"
+        },
+        "runtime": {
+          "BugApplication.dll": {}
+        }
+      },
+      "BugDomain/1.0.0": {
+        "runtime": {
+          "BugDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BugApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BugDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
