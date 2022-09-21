@@ -1,6 +1,4 @@
 # BugManagement
-Bug management application
-
 There are two types of accounts: tester and programmer.<br/>
 Testers can add bugs to the list.<br/>
 A bug has a description, a list of steps to reproduce the bug,
